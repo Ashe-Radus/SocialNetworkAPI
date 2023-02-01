@@ -1,0 +1,1 @@
+//this will hold the code for the user model. this will allow a user to create a profile and use it to make posts and comments. 
